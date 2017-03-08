@@ -1,8 +1,8 @@
 {
-  "name": "prismic.io",
-  "description": "JavaScript development kit for prismic.io",
+  "name": "lmn-prismic.io",
+  "description": "Lost My Name fork of JavaScript development kit for prismic.io",
   "license": "Apache-2.0",
-  "url": "https://github.com/prismicio/javascript-kit",
+  "url": "https://github.com/mrcthms/javascript-kit",
   "keywords": [
     "prismic",
     "prismic.io",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/prismicio/javascript-kit.git"
+    "url": "http://github.com/mrcthms/javascript-kit.git"
   },
   "main": "lib/prismic.js",
   "scripts": {
